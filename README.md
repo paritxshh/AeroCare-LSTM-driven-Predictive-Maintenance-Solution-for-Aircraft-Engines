@@ -50,7 +50,7 @@ This involves two main inquiries, approached with distinct machine learning mode
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/aerocare.gi
+    git clone https://github.com/paritxshh/AeroCare-LSTM-driven-Predictive-Maintenance-Solution-for-Aircraft-Engines.git
     ```
 ---
 
